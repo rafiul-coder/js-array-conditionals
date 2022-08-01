@@ -14,5 +14,5 @@ friends.push('jabbar');
 // console.log(numbers);
 
 //use push to add elements to an array as the begginers elements array
-numbers.shift();
+numbers.unshift(44);
 console.log(numbers);
